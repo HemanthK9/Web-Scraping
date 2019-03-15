@@ -1,2 +1,2 @@
 # Web-Scraping
-Miscellaneous Web Scraping tools implmented in Python
+Miscellaneous Web Scraping tools implemented in Python

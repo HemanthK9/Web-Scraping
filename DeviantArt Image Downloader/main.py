@@ -1,6 +1,6 @@
 
 '''
-Google IMage downloader - Takes one or more keywords as input and downloads the specified number of images from deviantArt
+DeviantArt Image downloader - Takes one or more keywords as input and downloads the specified number of images from deviantArt
 '''
 import sys, os
 import re
